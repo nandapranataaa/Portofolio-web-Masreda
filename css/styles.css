@@ -1,6 +1,6 @@
 :root {
-  --primary: #e41386;
-  --primary-light: #ff7fff;
+  --primary: #13e482;
+  --primary-light: #24a5f0;
   --dark: #1A202C;
   --darker: #0F111A;
   --light: #F0F4F8;
@@ -53,7 +53,7 @@ nav {
 .nav-logo {
   font-weight: 700;
   font-size: 1.5rem;
-  background: #c40b9c;
+  background: #09d35d;
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
@@ -186,7 +186,7 @@ section {
   height: 350px;
   object-fit: cover;
   border-radius: 20px;
-  border: 5px solid rgba(201, 74, 226, 0.5);
+  border: 5px solid rgba(51, 221, 116, 0.5);
   box-shadow: 0 25px 50px rgba(0,0,0,0.4);
   transition: all 0.5s ease;
   position: absolute;
